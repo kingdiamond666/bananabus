@@ -33,6 +33,8 @@ Hopefully you learn something, I know I did 🧀
 
 * If you want to view an image in your terminal (like I have below) I suggest having [ITerm2](https://www.iterm2.com/) and subsiquentially [imgcat](https://github.com/eddieantonio/imgcat) installed.
 
+* You should have a Unix based system, Mac or Linux.
+
 * This should also probably not be your first day using the command line ideally, though if it is...welcome to a whole new world of power.
 
 ![hackerman.jpg](./hackerman.jpg)

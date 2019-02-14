@@ -35,6 +35,8 @@ Hopefully you learn something, I know I did 🧀
 
 * You should have a Unix based system, Mac or Linux.
 
+* If you want the editor of your choice to launch you should already have the alias for it installed.
+
 * This should also probably not be your first day using the command line ideally, though if it is...welcome to a whole new world of power.
 
 ![hackerman.jpg](./hackerman.jpg)

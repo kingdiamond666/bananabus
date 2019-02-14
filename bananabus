@@ -1,0 +1,19 @@
+#!/bin/bash
+
+#ADD AN IMAGE IF YOU WOULD LIKE TO PRINT ONE OUT TO YOUR CONSOLE
+#MAKE SURE YOU HAVE IMGCAT INSTALLED
+imgcat ~/path/to/image.jpg
+echo "Hookay..I'll make your DAMN WEBSITE!"
+mkdir website website/css website/js
+cd website
+touch index.html
+#CREATE YOUR OWN HTML BOILER PLATE AND INSERT BELOW USING IT'S OWN RELATIVE PATH
+cat ~/path/to/index.html >> index.html
+#USE THE IMAGE PATH FROM EARLIER IF YOU WOULD LIKE TO INSERT IT INTO YOUR DOCUMENT
+cp ~/path/to/image.jpg . 
+touch css/style.css js/app.js
+git init
+#EDIT BELOW FOR A TEXT EDITOR OF YOUR CHOICE
+text-editor-command .
+
+exit
